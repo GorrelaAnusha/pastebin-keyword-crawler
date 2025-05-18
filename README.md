@@ -17,6 +17,8 @@ python pastebin_crawler.py
 It will crawl the latest 30 pastes on Pastebin and save those containing keywords to `keyword_matches.jsonl`.
 
 
+https://github.com/GorrelaAnusha/pastebin-keyword-crawler/blob/main/Screenshot.png
+
 ## Sample Output
 An example JSON entry saved in `keyword_matches.jsonl`:
 ```json
